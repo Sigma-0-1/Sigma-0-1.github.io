@@ -1,8 +1,8 @@
 title: Mathnote
 author: Kwang Yong Kwon
 url: https://sigma-0-1.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Mathnote is a small library filled with interesting contents of math. Main reports are about set theories.
+description: > Mathnote is a small library filled with interesting contents of math. Main reports are about set theories. # description of the site (multiple lines allowed)
+  
 
 permalink: /:slug
 
