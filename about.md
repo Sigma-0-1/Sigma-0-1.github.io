@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-This is an example page!
+I'm Kwang Yong Kwon, who is interested in set theories.
 
-Actually, it has the same layout of a post...
+I'm studying Mathematics in SNU.
