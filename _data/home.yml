@@ -55,7 +55,7 @@ old_project_entries:
 
 footer_entries:
    - title: github
-    url: null
+    url: http://sigma-0-1.github.io
 
   - title: feed
     url: feed.xml
