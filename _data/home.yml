@@ -54,7 +54,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-   - title: github
+  - title: github
     url: http://sigma-0-1.github.io
 
   - title: feed
